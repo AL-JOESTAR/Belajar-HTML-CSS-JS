@@ -19,3 +19,9 @@ function myFunction() {
 }
 
 // code here can NOT use carName
+
+
+{
+  let x = 2;
+}
+// x can NOT be used here
