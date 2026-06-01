@@ -71,3 +71,21 @@ p.ex2 {outline: dotted red;}
 p.ex3 {outline: 7px solid yellow;}
 p.ex4 {outline: thick ridge pink;}
 
+// offset
+
+p {
+  margin: 30px;
+  padding: 5px;
+  border: 1px solid black;
+  outline: 3px solid red;
+  outline-offset: 15px;
+}
+
+p {
+  margin: 30px;
+  padding: 5px;
+  background: yellow;
+  border: 1px solid black;
+  outline: 3px solid red;
+  outline-offset: 15px;
+}
