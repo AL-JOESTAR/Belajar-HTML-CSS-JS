@@ -30,3 +30,35 @@ p.ex3 {
 p.ex4 {
   outline-width: 8px;
 }
+
+// Collor
+
+p {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+p.ex1 {
+  outline-style: solid;
+  outline-color: red;
+}
+
+p.ex2 {
+  outline-style: dotted;
+  outline-color: blue;
+}
+
+p.ex3 {
+  outline-style: outset;
+  outline-color: green;
+}
+
+p.ex4 {
+  outline-style: solid;
+  outline-color: invert;
+}
+
+p.ex1 {
+  outline-style: solid;
+  outline-color: #ff0000; /* red */
+}
