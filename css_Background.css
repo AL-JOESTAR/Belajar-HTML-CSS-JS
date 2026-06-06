@@ -19,3 +19,10 @@ div.second {
 div.third {
   opacity: 0.6;
 }
+
+// image
+
+body {
+  background-image: url("paper.gif");
+}
+
